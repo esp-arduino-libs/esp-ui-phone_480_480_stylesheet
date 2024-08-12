@@ -1,4 +1,4 @@
-version: 0.1.0
+version: 0.1.1
 description: This package provides a stylesheet for the esp-ui phone with a 480x480 resolution.
 url: https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
 issues: https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet/issues
