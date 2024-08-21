@@ -1,4 +1,4 @@
-version: 0.1.1
+version: 0.2.0
 description: This package provides a stylesheet for the esp-ui phone with a 480x480 resolution.
 url: https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
 issues: https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet/issues
@@ -6,7 +6,7 @@ repository: https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet.
 dependencies:
   cmake_utilities: "0.*"
   espressif/esp-ui:
-    version: "0.1.*"
+    version: "0.2.*"
     public: true
   lvgl/lvgl:
     version: ">=8.3,<9"

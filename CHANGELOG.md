@@ -1,5 +1,12 @@
 # ChangeLog
 
+## v0.2.0 - 2024-08-21
+
+### Enhancements:
+
+* feat(gesture): 'Gesture' use indicator bar
+* feat(stylesheet): enable 'Navigation Bar' adn use flex visual mode
+
 ## v0.1.1 - 2024-08-12
 
 ### Bugfixes:
